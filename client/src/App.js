@@ -3,12 +3,9 @@ import AppRouter from './components/AppRouter';
 
 const App = () => {
   return (
-    <div>
-      <BrowserRouter>
+    // <BrowserRouter>
         <AppRouter/>
-      </BrowserRouter>
-
-    </div>
+    // </BrowserRouter>
   );
 }
 
